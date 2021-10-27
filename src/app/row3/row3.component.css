@@ -1,0 +1,28 @@
+.row3-p
+{
+    color: dodgerblue;
+    margin: 70px;
+    padding-left: 550px;
+}
+.row3-p1
+{
+    margin-top: -60px;
+    padding-left: 470px;
+}
+.sub-row3
+{
+    display: flex;
+}
+.cont-1
+{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+button
+{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 20px;
+    padding:8px;
+    border-color: white;
+}

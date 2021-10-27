@@ -1,0 +1,22 @@
+.row-6
+{
+    margin: 80px 50px 50px 50px;
+    display: flex;
+    transition: .2s transform;
+}
+.row-6:hover{
+ transform:scale(1.1);
+}
+.row-6 > h3
+{
+    color: dodgerblue;
+}
+h3
+{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.sub-row-6 img
+{
+    margin-left: 50px;
+}

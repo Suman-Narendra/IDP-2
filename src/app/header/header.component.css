@@ -1,0 +1,28 @@
+.logo-c
+{
+    display: inline-block;    
+    width: 100px;
+}
+
+.logo-c > img{
+    height: 140%;
+    width: 210%;
+}
+.content
+{
+    padding-left: 100px;
+}
+.content > ul > li {
+    padding-left: 70px;
+    font-size: 20px;
+    
+}
+.content > ul > li > a :hover{
+   background-color: grey;
+}
+
+.content > ul > li > a
+{
+color: black;
+}
+
